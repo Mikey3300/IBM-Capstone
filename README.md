@@ -11,6 +11,5 @@ There are 6 phases to sum up my capstone:
 2. Data Wrangling
 3. EDA using SQL
 4. EDA with Visualization
-5. Folium
-6. Visualization with Dash
-7. Machine Learning 
+5. Visualization with Dash
+6. Machine Learning 
